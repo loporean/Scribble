@@ -33,6 +33,30 @@ As Scribble is currently under development and not deployable as a standalone ap
 - **Testing:** Once deployed, users will be able to test Scribble and provide feedback to help improve the platform.
 - **Enhancements:** We aim to continuously improve Scribble by adding new features and addressing any issues reported by users.
 
-## Screenshots
+## Content
 
 Screenshots of the Scribble application will be provided once the platform is available for testing.
+
+- **Chatroom Navigation**
+
+![classNav](https://github.com/loporean/Scribble/assets/84533280/d09bbc48-8e98-4810-9e8d-51c94bc41ba9)
+
+- **Typing Indicator**
+
+![user_typing](https://github.com/loporean/Scribble/assets/84533280/441a8516-0937-4ca5-bbfb-2c6e8ba5cada)
+
+- **Adding A Class**
+
+![addClass](https://github.com/loporean/Scribble/assets/84533280/63fa203d-bf69-43c2-a7cf-ebd953ea8586)
+
+- **Adding and Editing Notes**
+
+![userNotes](https://github.com/loporean/Scribble/assets/84533280/afba72c5-9815-4a21-87af-4947e921a54f)
+
+- **Collaborative Notes**
+
+
+- **Downloading and Uploading Notes**
+
+![upload-download-notes](https://github.com/loporean/Scribble/assets/84533280/d5d8f5be-92f5-4741-a83a-4c1d0eadc552)
+
