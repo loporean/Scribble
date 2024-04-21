@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "express-socket.io-session": "^1.3.5",
+    "gm": "^1.25.0",
+    "http": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.3",
+    "nodemon": "^3.0.1",
+    "sharp": "^0.33.3",
+    "socket.io": "^4.7.4",
+    "uuid": "^9.0.1"
+  },
+  "type": "module",
+  "main": "database.js",
+  "scripts": {
+    "start": "npx nodemon app.js",
+    "test": "npx nodemon test-app.js"
+  }
+}

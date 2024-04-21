@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Scribble | Log In</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+
+        .login-panel {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="password"],
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+
+        input[type="submit"] {
+            background-color: #4caf50;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        a {
+            text-decoration: none;
+            color: #4c56af;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main-login">
+        <div class="center-2 login-panel">
+            <h1>Welcome back!</h1>
+            <form action="/login" method="post" onsubmit="return loginUser()">
+                <label for="username">Username</label>
+                <input type="text" id="username" name="username"/>
+                
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password"/>
+                
+                <input type="submit" value="Log In">
+                <br>
+                <a href="acc.html">No account? Create one!</a>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function loginUser() {
+            // Perform login authentication here
+
+            // Assuming login is successful, redirect to user_update.html
+            window.location.href = "user_update.html";
+            return false; // Prevent form submission
+        }
+    </script>
+
+</body>
+</html>

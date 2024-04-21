@@ -1,0 +1,26 @@
+[
+  {
+        "title": "Notes 1",
+        "filename": "notes1.txt",
+        "fileID": 1234567890,
+        "text": "I'm just playing games"
+  },
+  {
+        "title": "Notes 2",
+        "filename": "notes2.txt",
+        "fileID": 9876543210,
+        "text": "I know that's plastic love"
+  },
+  {
+        "title": "Notes 3",
+        "filename": "notes3.txt",
+        "fileID": 2252252250,
+        "text": "Dance to the plastic beat"
+  },
+  {
+        "title": "Notes 4",
+        "filename": "notes4.txt",
+        "fileID": 7777777777,
+        "text": "Another morning comes"
+  }
+]

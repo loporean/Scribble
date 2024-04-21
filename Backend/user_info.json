@@ -1,0 +1,28 @@
+[
+    {
+        "userID": 1234567890,
+        "username": "tianapowell225",
+        "firstName": "Tiana",
+        "lastName": "Powell",
+        "userType": "Student",
+        "email": "tpowell225@gmail.com",
+        "password": "myDog225!@#",
+        "memberSince": 1661130000000,
+        "schoolName": "Ristarte State University",
+        "classes": [
+            {
+                "classInSchoolName": "CS-310"
+            },
+            {
+                "classInSchoolName": "CS-350"
+            },
+            {
+                "classInSchoolName": "BIOL-349"
+            },
+            {
+                "classInSchoolName": "ENGL-365"
+            }
+        ]
+
+    }
+]
