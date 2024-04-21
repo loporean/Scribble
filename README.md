@@ -37,23 +37,40 @@ As Scribble is currently under development and not deployable as a standalone ap
 
 Screenshots of the Scribble application will be provided once the platform is available for testing.
 
+
 - **Chatroom Navigation**
 
 ![classNav](https://github.com/loporean/Scribble/assets/84533280/d09bbc48-8e98-4810-9e8d-51c94bc41ba9)
+
 
 - **Typing Indicator**
 
 ![user_typing](https://github.com/loporean/Scribble/assets/84533280/441a8516-0937-4ca5-bbfb-2c6e8ba5cada)
 
+
+- **Messaging**
+
+![chatroomMessaging](https://github.com/loporean/Scribble/assets/84533280/6568dc40-aa0f-43cb-9699-64c0ebebb24c)
+
+
+- **Gifs**
+
+![gifsMessaging](https://github.com/loporean/Scribble/assets/84533280/611100b1-679c-49b9-84a8-8424afb4997e)
+
+
 - **Adding A Class**
 
 ![addClass](https://github.com/loporean/Scribble/assets/84533280/63fa203d-bf69-43c2-a7cf-ebd953ea8586)
+
 
 - **Adding and Editing Notes**
 
 ![userNotes](https://github.com/loporean/Scribble/assets/84533280/afba72c5-9815-4a21-87af-4947e921a54f)
 
+
 - **Collaborative Notes**
+
+![collaborativeNotes](https://github.com/loporean/Scribble/assets/84533280/d87e143f-ad67-430f-bbeb-55c988f6ddde)
 
 
 - **Downloading and Uploading Notes**
